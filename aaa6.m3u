@@ -11,5 +11,5 @@ https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8$LR•IPV6『线路2』
-#EXTINF:-1 tvg-logo="http://https://raw.githubusercontent.com/xiaoyu528/TVlogo/refs/heads/main/png/CCTV1.PNG" tvg-id="7249" tvg-name="CCTV16" group-title="央视",CCTV奥林匹克频道
+#EXTINF:-1 tvg-logo="http://https://raw.githubusercontent.com/xiaoyu528/TVlogo/refs/heads/main/png/CCTV1.PNG" tvg-id="7249" tvg-name="CCTV1" group-title="央视",CCTV奥林匹克频道
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227530/index.m3u8
