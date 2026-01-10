@@ -7,3 +7,10 @@
 最新接口，https://gitee。com/TV 2785/IPTV/raw/master/ad . MP4
 更新2024-11-19，https://gitee。com/TV 2785/IPTV/raw/master/ad . MP4
 已运行365天，https://gitee。com/TV 2785/IPTV/raw/master/ad . MP4
+
+★公告信息,#genre#
+请阅读,https://liuliuliu.tv/api/channels/1997/stream
+yuanzl77.github.io,https://liuliuliu.tv/api/channels/233/stream
+更新日期,https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4
+2024-07-19,https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
+央视频道,#genre#
